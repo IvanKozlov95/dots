@@ -1,0 +1,39 @@
+{
+	"window.zoomLevel": -1,
+	"editor.renderWhitespace": "all",
+
+	"editor.tabSize": 2,
+	"editor.minimap.enabled": true,
+	"editor.renderControlCharacters": true,
+	"editor.wordWrap": "on",
+	"editor.rulers": [
+		100
+	],
+	"editor.fontFamily": "Source Code Variable",
+	
+	"gitlens.advanced.messages": {
+		"suppressLineUncommittedWarning": true
+	},
+	"gitlens.codeLens.recentChange.enabled": false,
+	"zenMode.fullScreen": false,
+	"zenMode.hideTabs": false,
+
+	"breadcrumbs.enabled": true,
+
+	"workbench.editor.showTabs": true,
+	"explorer.confirmDelete": false,
+	"workbench.colorTheme": "Jazzbox",
+	"files.autoSave": "off",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"workbench.sideBar.location": "right",
+	"workbench.statusBar.visible": true,
+	"workbench.activityBar.visible": true,
+	"search.showLineNumbers": true,
+	"eslint.autoFixOnSave": true,
+	"zenMode.hideLineNumbers": false,
+	"editor.fontWeight": "500",
+	"vim.easymotionMarkerFontSize": "16",
+	"terminal.integrated.fontSize": 14,
+	"git.autofetch": true,
+	"sync.gist": "e8b0a101903e6f60f3f02a4048ee5d67"
+}
